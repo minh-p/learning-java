@@ -7,7 +7,7 @@
     There might be some special things that java has.
 */
 
-class HelloWorldApp {
+public class HelloWorldApp {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
